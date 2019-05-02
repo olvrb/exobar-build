@@ -1,4 +1,4 @@
-# Exobar build
+# Exobar Build
 
 ###### The best development environment for [Exobar](https://repo.nepeta.me/depiction/me.nepeta.exobar).
 
@@ -29,3 +29,6 @@ Keep in mind the Exobar build uses environment variables for installing the pack
         - Information file used by Exobar to display your widget
     - [theme.html](./src/theme.html)
         - Template html file
+
+# LICENSE
+Exobar Build is licensed under the GNU GPL 3.0 license, see [LICENSE](./LICENSE).

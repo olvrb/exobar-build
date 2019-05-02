@@ -1,0 +1,10 @@
+Package: com.name.themename
+Name: package name
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: A descriptive description
+Homepage: /
+Depiction: /
+Maintainer: Your Name 
+Author: Oliver Boudet <oboudet1@me.com>
+Section: Themes (Exobar)

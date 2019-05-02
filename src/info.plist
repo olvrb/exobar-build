@@ -1,0 +1,6 @@
+    
+{
+  author = "Oliver Boudet";
+  version = "1.0.0";
+  description = "Exobar build template.";
+}
